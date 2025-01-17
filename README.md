@@ -1,5 +1,5 @@
-# EasyMYP
-EasyMYP, a tool that can inspect and extract assets from SWTOR's .tor packs.
+# EasyMYP (AKA TorMYP)
+This EasyMYP tool variant can inspect and extract assets from SWTOR's .tor packs.
 
 ## WARNING: EasyMYP is not compatible with the 64 bit version of SWTOR (Game Update 7.2.1 onwards) and won't be developed any further. 
 
